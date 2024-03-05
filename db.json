@@ -35,22 +35,6 @@
       "genre": "Fiction",
       "ISBN": 9690343445,
       "year": 1925
-    },
-    {
-      "title": "old",
-      "authorName": "old author1",
-      "authorBirthYear": 1970,
-      "authorBiography": "well known author",
-      "ISBN": "",
-      "genre": "new genre1",
-      "year": 1980,
-      "author": {
-        "name": "old author1",
-        "birthYear": "1951",
-        "biography": "well known writer"
-      },
-      "id": "57830e9d-f426-466f-b084-590be2fcffd3",
-      "isbn": "5832-4954-890"
     }
   ]
 }
