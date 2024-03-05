@@ -1,0 +1,56 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "To Kill a Mockingbird",
+      "author": {
+        "name": "Harper Lee",
+        "birthYear": 1926,
+        "biography": "Nelle Harper Lee was an American novelist"
+      },
+      "genre": "Fiction",
+      "ISBN": "97090343458",
+      "year": 1960
+    },
+    {
+      "id": "2",
+      "title": "1984",
+      "author": {
+        "name": "George Orwell",
+        "birthYear": 1903,
+        "biography": "George Orwell was an English novelist, essayist, journalist, and critic."
+      },
+      "genre": "Dystopian",
+      "ISBN": 8765034344,
+      "year": 1949
+    },
+    {
+      "id": "3",
+      "title": "The Great Gatsby",
+      "author": {
+        "name": "F. Scott Fitzgerald",
+        "birthYear": 1896,
+        "biography": "Francis Scott Key Fitzgerald was an American novelist, essayist, and short story writer."
+      },
+      "genre": "Fiction",
+      "ISBN": 9690343445,
+      "year": 1925
+    },
+    {
+      "title": "old",
+      "authorName": "old author1",
+      "authorBirthYear": 1970,
+      "authorBiography": "well known author",
+      "ISBN": "",
+      "genre": "new genre1",
+      "year": 1980,
+      "author": {
+        "name": "old author1",
+        "birthYear": "1951",
+        "biography": "well known writer"
+      },
+      "id": "57830e9d-f426-466f-b084-590be2fcffd3",
+      "isbn": "5832-4954-890"
+    }
+  ]
+}
